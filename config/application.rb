@@ -15,5 +15,7 @@ module SampleApp
 
     config.i18n.default_locale = :en
 
+    config.time_zone = Settings.time_zone
+
   end
 end
