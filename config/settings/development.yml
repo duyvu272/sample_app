@@ -1,0 +1,6 @@
+user:
+  password_lenght: 6
+  name: 50
+  email: 255
+
+time_zone: "Hanoi"
